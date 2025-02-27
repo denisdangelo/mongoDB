@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/denisdangelo/mongoDB#readme",
   "dependencies": {
-    "mongoose": "^8.10.1"
+    "mongoose": "^8.11.0"
   }
 }
