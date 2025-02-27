@@ -128,7 +128,7 @@ const deletarCliente = async (id) => {
 const app = async () => {
     await conectar()
     // CRUD - Create
-    await criarCliente("Patrick Silva", "11971263806", "687.998.710-55")
+    //await criarCliente("Patrick Silva", "11971263806", "687.998.710-55")
 
     // CRUD - Read (Exemplo 1 - Listar todos os clientes) 
     //await listarCliente()
